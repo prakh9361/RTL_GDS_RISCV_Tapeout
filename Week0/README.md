@@ -52,7 +52,7 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 ![Alt Text](gtkwave.png)
-####<ins>**magic**</ins>
+#### <ins>**magic**</ins>
 ```bash
 $ sudo apt-get install m4
 $ sudo apt-get install tcsh
