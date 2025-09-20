@@ -36,6 +36,10 @@ This learning journey relies exclusively on powerful, open-source EDA tools.
 I will also add a parallel implemtation in the iic-jku-docker container as it offers plug asn play for most open source tools.
 I recommend Windows users to use WSL to follow along.
 I am personally ubuntu 22.04 native.
+<div>
+  https://github.com/iic-jku/IIC-OSIC-TOOLS
+</div>
+
 <div align="center">
 
 ![Yosys](https://img.shields.io/badge/Yosys-RTL%20Synthesis-blue?style=flat-square)
