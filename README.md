@@ -11,7 +11,7 @@
 
 Welcome to my repository for the RISC-V SoC Tapeout Program! This space documents my week-by-week progress in learning to design a complete System-on-Chip (SoC) from RTL to GDSII using open-source EDA tools.
 
-The goal is to follow a standard industry workflow, from initial design to a tapeout-ready layout.
+The goal is to follow open source industry workflows, from initial design to a tapeout-ready layout.
 
 <div align="center">
 
@@ -25,12 +25,8 @@ This table tracks my progress through the program. Each week has a dedicated sub
 
 | Week | Topic / Description | Status | Link to Directory |
 |:----:|---------------------|:------:|:-----------------:|
-| 00   | **Tools Setup & Environment** - Installing the complete open-source EDA toolchain. | ✅ Done | [Go to Week 0](./Week0/) |
-| 01   | **RTL Design & Simulation** - Designing modules in Verilog and running simulations. | ⏳ In Progress | [Go to Week 1](./Week1/) |
-| 02   | **Logic Synthesis & Pre-Layout STA** - Converting RTL to a gate-level netlist. | 📝 Planned | (Coming Soon) |
-| 03   | **Physical Design** - Floorplanning, Placement, and Clock Tree Synthesis. | 📝 Planned | (Coming Soon) |
-| 04   | **Routing & Post-Layout STA** - Routing the design and performing final timing checks. | 📝 Planned | (Coming Soon) |
-| 05   | **Final GDSII Generation** - Performing DRC/LVS checks and generating the final layout file. | 📝 Planned | (Coming Soon) |
+| 00   | **Tools Setup & Environment** - Installing the basics of the toolchain. | ✅ Done | [Go to Week 0](./Week0/) |
+
 
 ---
 
@@ -53,6 +49,9 @@ This learning journey relies exclusively on powerful, open-source EDA tools.
 
 ## 🙏 Acknowledgment
 
+I like to offer my salutions to the enigmatic engineers at **Open Circuit Design** for developing several of the technologies that this repo will use.
 I am grateful to **Kunal Ghosh** and the entire **VLSI System Design (VSD)** team for this incredible learning opportunity through the RISC-V SoC Tapeout Program.
 
 Special thanks to the supporting organizations that make this initiative possible, including **RISC-V International** and **Efabless**.
+
+**Arise,Awake and stop not until the goal is met - Swami Vivekanada**
